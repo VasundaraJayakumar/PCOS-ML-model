@@ -82,8 +82,8 @@ def testing(path) :
     return test_images, test_labels
 
 # preprocessing training and testing images
-X_test, y_test_labels = training(r'D:\IPCVCP\data\test')
-X_train, y_train_labels = training(r'D:\IPCVCP\data\train')
+#X_test, y_test_labels = training(r'C:\Users\VASUNDARA\Desktop\DS CODE\PCOS-Detection\data\test')
+#X_train, y_train_labels = training(r'C:\Users\VASUNDARA\Desktop\DS CODE\PCOS-Detection\data\train')
 
 # encoding labels from text to integer
 le = preprocessing.LabelEncoder()
