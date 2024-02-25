@@ -4,5 +4,6 @@ numpy
 joblib
 keras
 tensorflow-cpu
+pillow
 
 
