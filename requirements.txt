@@ -6,10 +6,9 @@ Flask
 # Jinja2==3.0.2
 # MarkupSafe==2.1.0
 # Werkzeug==2.0.2
-Keras
+xgboost
 
 #tensorflow-cpu==2.12.0rc1
 tensorflow-cpu
 
-Pillow
-xgboost
+
