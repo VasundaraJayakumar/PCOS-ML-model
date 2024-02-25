@@ -13,6 +13,6 @@ numpy
 tensorflow-cpu
 flask-cors
 Pillow
-xboost
+xgboost
 jsonify
 joblib
