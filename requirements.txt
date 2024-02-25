@@ -1,14 +1,8 @@
-# scikit-learn==0.24.2
-# tensorflow==2.6.1
-# click==8.0.1
 Flask
-# itsdangerous==2.1.0
-# Jinja2==3.0.2
-# MarkupSafe==2.1.0
-# Werkzeug==2.0.2
-xgboost
-
-#tensorflow-cpu==2.12.0rc1
+requests
+numpy
+joblib
+keras
 tensorflow-cpu
 
 
