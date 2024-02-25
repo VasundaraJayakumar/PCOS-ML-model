@@ -7,12 +7,9 @@ Flask
 # MarkupSafe==2.1.0
 # Werkzeug==2.0.2
 Keras
-numpy
 
 #tensorflow-cpu==2.12.0rc1
 tensorflow-cpu
 
 Pillow
 xgboost
-
-joblib
